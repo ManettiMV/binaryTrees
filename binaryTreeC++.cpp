@@ -180,7 +180,7 @@ public:
     }                
 };
 
-int main() {
+int main() {    // Here is Just tests
     BinaryTree<int> tree;
 
     // Initial message
