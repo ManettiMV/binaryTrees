@@ -1,4 +1,4 @@
 # binaryTrees
-Here's my codes of binary trees, both in python and C++
+Here's my code of a binary tree in C++
 
 It was made by me for a college project
